@@ -1,0 +1,64 @@
+01:17:38.055 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ELITEBOOK\myworkspaces\seleniumwebdriver\OpencartV121\master.xml
+
+01:19:57.880 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ELITEBOOK\myworkspaces\seleniumwebdriver\OpencartV121\master.xml
+
+01:24:43.558 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ELITEBOOK\myworkspaces\seleniumwebdriver\OpencartV121\master.xml
+
+01:26:33.325 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ELITEBOOK\myworkspaces\seleniumwebdriver\OpencartV121\master.xml
+
+01:26:40.082 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT*****
+01:26:43.708 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT*****
+01:26:43.722 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT*****
+01:26:44.452 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT*****
+01:26:45.284 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT*****
+01:26:45.945 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT*****
+01:27:57.433 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ELITEBOOK\myworkspaces\seleniumwebdriver\OpencartV121\master.xml
+
+01:28:06.678 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT*****
+01:28:10.361 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT*****
+01:28:10.396 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT*****
+01:28:13.606 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT*****
+01:28:16.787 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT*****
+01:28:28.880 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT*****
+01:28:28.880 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT*****
+01:30:35.641 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ELITEBOOK\myworkspaces\seleniumwebdriver\OpencartV121\master.xml
+
+01:30:43.715 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT*****
+01:30:47.197 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT*****
+01:30:47.213 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT*****
+01:30:50.498 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT*****
+01:30:53.670 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT*****
+01:31:05.675 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT*****
+01:31:05.691 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT*****
+01:14:33.385 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ELITEBOOK\myworkspaces\seleniumwebdriver\OpencartV121\grouping.xml
+
+01:14:42.266 [main] INFO  testCases.TC001_AccountRegistrationTest - *****starting TC001_AccountRegistrationTest*****
+01:14:42.364 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link..
+01:14:43.239 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link..
+01:14:43.249 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details..
+01:14:44.868 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest*****
+01:14:52.529 [main] INFO  testCases.TC002_LoginTest - ******Starting TC002_LoginTest *****
+23:42:48.536 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ELITEBOOK\myworkspaces\seleniumwebdriver\OpencartV121\grid-docker.xml
+
+23:42:59.168 [main] INFO  testCases.TC001_AccountRegistrationTest - *****starting TC001_AccountRegistrationTest*****
+23:42:59.498 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link..
+23:43:00.811 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link..
+23:43:00.817 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details..
+23:43:03.794 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest*****
+23:43:08.246 [main] INFO  testCases.TC002_LoginTest - ******Starting TC002_LoginTest *****
+16:56:49.594 [main] INFO  testCases.TC001_AccountRegistrationTest - *****starting TC001_AccountRegistrationTest*****
+16:56:50.079 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link..
+16:56:51.508 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link..
+16:56:51.511 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details..
+16:56:54.973 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest*****
+16:56:59.245 [main] INFO  testCases.TC002_LoginTest - ******Starting TC002_LoginTest *****
+16:57:02.074 [main] INFO  testCases.TC002_LoginTest - ******Finishe TC002_LoginTest *****
+19:09:21.296 [main] INFO  testCases.TC001_AccountRegistrationTest - *****starting TC001_AccountRegistrationTest*****
